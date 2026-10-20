@@ -1,5 +1,5 @@
 const settings = {
-  packname'Cassius Tech bot',
+  packname:'Cassius Tech bot',
   author: '‎Cassius',
   botName: "CBTP",
   botOwner: 'Cassius ', // Your name
