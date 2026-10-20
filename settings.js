@@ -1,6 +1,6 @@
 const settings = {
   packname'Cassius Tech bot',
-  author: '‎',
+  author: '‎Cassius',
   botName: "CBTP",
   botOwner: 'Cassius ', // Your name
   ownerNumber: '27686836786', //Set your number here without + symbol, just add country code & number without any space
